@@ -141,5 +141,5 @@ RLS is applied on the **Customers** table and cascades to Claims via the data mo
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Ramya**  
+[LinkedIn](www.linkedin.com/in/ramya-vempati) • [GitHub](https://github.com/ramya217)
